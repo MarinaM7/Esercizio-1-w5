@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+
+body {
+    font-family: 'Play', sans-serif;
+    text-align: center;
+    position: relative;
+}
+
+hr {
+    width: 50%;
+    border: 1px solid lightsteelblue;
+}
+
+h1 {
+    text-shadow: 5px 5px 8px gray;
+}
+
+h2 {
+    padding: 20px;
+}
+
+h3 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#div {
+    padding: 20px;
+}
